@@ -1,0 +1,5 @@
+{
+  "name": "PulseManager Dashboard",
+  "description": "A client management dashboard for sales and directors to visualize Pulse Chat hearing data and manage client statuses.",
+  "requestFramePermissions": []
+}
